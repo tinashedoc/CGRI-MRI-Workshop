@@ -12,6 +12,12 @@ The African Society of Human Genetics was established in 2003 with the central g
 
 Tinashe Chikowore, Sydney Brenner Institute for Molecular Bioscience, University of the Witwatersrand<br>
 
+## Speakers for the Webinars
+
+Segun Fatumo, London School of Hygiene and Tropical Medicine<br>
+Ananyo Choudhury, Sydney Brenner Institute for Molecular Bioscience, University of the Witwatersrand<br>
+Michele Ramsay, Sydney Brenner Institute for Molecular Bioscience, University of the Witwatersrand<br>
+
 
 ## Presentations
 <a href="https://github.com/WCSCourses/HumanGenEpi/tree/main/presentations" target="_blank">Download here</a>
