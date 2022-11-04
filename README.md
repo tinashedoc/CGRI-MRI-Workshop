@@ -9,7 +9,7 @@ The African Society of Human Genetics was established in 2003 with the central g
 
 ## Instructors
 
-<img src="https://github.com/tinashedoc/cvx/blob/main/TinasheChikowore.png" width="100" height="100">
+<img src="https://github.com/tinashedoc/cvx/blob/main/TinasheChikowore.png" width="200" height="100">
 Tinashe Chikowore, Sydney Brenner Institute for Molecular Bioscience, University of the Witwatersrand<br>
 
 ## Speakers for the Webinars
