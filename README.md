@@ -27,7 +27,7 @@ Michele Ramsay, Sydney Brenner Institute for Molecular Bioscience, University of
 
 <a href="https://github.com/tinashedoc/African-Genomics-Week/tree/main/manuals/NGS%20analysis" target="blank">Next Generation Sequencing(NGS)</a>
 
-<a href="https://github.com/tinashedoc/African-Genomics-Week/tree/main/manuals/GWAS" target="blank">Polygenic Risk Scores(PRS)</a>
+<a href="https://github.com/tinashedoc/African-Genomics-Week/tree/main/manuals/polygenic%20risk%20scores" target="blank">Polygenic Risk Scores(PRS)</a>
 
 <a href="https://github.com/tinashedoc/African-Genomics-Week/tree/main/manuals/GWAS" target="blank"> Vaccine Design </a>
 
