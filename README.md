@@ -24,6 +24,8 @@ Michele Ramsay, Sydney Brenner Institute for Molecular Bioscience, University of
 
 ## Course manual
 <a href="https://github.com/tinashedoc/African-Genomics-Week/tree/main/manuals/GWAS" target="blank">Genome Wide Association Studies(GWAS)</a>
+
 <a href="https://github.com/tinashedoc/African-Genomics-Week/tree/main/manuals/GWAS" target="blank">Next Generation Sequencing(NGS)</a>
+
 <a href="https://github.com/tinashedoc/African-Genomics-Week/tree/main/manuals/GWAS" target="blank">Polygenic Risk Scores(PRS)</a>
 
