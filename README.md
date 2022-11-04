@@ -23,6 +23,12 @@ Richard Daodu <br>
 Redeemer <br> 
 University <br> 
 
+<img src="https://github.com/tinashedoc/cvx/blob/main/valentina.jpg" width="100" height="100"> <br>
+Valentina Essomba <br> 
+Dschang <br> 
+University <br> 
+
+
 ## Speakers for the Webinars
 
 Segun Fatumo, London School of Hygiene and Tropical Medicine<br>
