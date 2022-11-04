@@ -20,7 +20,7 @@ Michele Ramsay, Sydney Brenner Institute for Molecular Bioscience, University of
 
 
 ## Presentations
-<a href="https://github.com/WCSCourses/HumanGenEpi/tree/main/presentations" target="_blank">Download here</a>
+<a href="https://github.com/tinashedoc/African-Genomics-Week/tree/main/Presentations" target="_blank">Download here</a>
 
 ## Course manual
 <a href="https://github.com/WCSCourses/HumanGenEpi/blob/main/manuals/Computational_resources/" target="blank">Computational Resources</a>
