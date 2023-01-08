@@ -3,6 +3,8 @@
 # Mendelian Randomization Workshop, Nigeria 20-24 March 2023
 
 ![image](https://user-images.githubusercontent.com/13121809/211202778-e9014dfa-52d9-4e58-a19d-a49e51520c31.png)
+<img width="800" alt="image" src="https://user-images.githubusercontent.com/13121809/211205095-10788cce-f300-4eda-bbfd-cffd2b826504.png">
+
 
 ## Course overview
 In epidemiology, Mendelian randomization studies are increasingly being used to distinguish causal from observational associations and to choose prospective targets for pharmaceutical intervention. In this field, African researchers have limited experience. The goal of this workshop is to close the knowledge gap among Africans Scientists. This five-day intensive workshop integrates motivation for Mendelian randomization studies, statistical concepts, genetic considerations, and practical examples to design, implement and interpret a Mendelian randomization analysis. The workshop will integrate seminar lectures with hands-on computer sessions to put concepts into practice. Emphasis will be given to leveraging existing publicly available resources (data, tools and packages) as well as indicating the scope for new studies. The lab sessions will provide an opportunity to work hands-on with real data. Participants will learn and practice all the steps required for a successful Mendelian randomization analysis using publicly available data, including identifying suitable data sources, data extraction, data alignment, assumption checking and sensitivity analysis  
