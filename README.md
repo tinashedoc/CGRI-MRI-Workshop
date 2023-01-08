@@ -38,10 +38,10 @@ Prof. Nicky Mulder H3ABioNet/UCT, Cape Town, South Africa<br>
 
 
 ## Presentations
-<a href="https://github.com/tinashedoc/African-Genomics-Week/tree/main/Presentations" target="_blank">Download here</a>
+<a href="https://github.com/tinashedoc/CGRI-MRI-Workshop/tree/main/Presentations" target="_blank">Download here</a>
 
 ## Course manual
-<a href="https://github.com/tinashedoc/African-Genomics-Week/tree/main/manuals/GWAS" target="blank">Genome Wide Association Studies(GWAS)</a>
+<a href="https://github.com/tinashedoc/CGRI-MRI-Workshop/tree/main/manuals/GWAS" target="blank">Genome Wide Association Studies(GWAS)</a>
 
 <a href="https://github.com/tinashedoc/African-Genomics-Week/tree/main/manuals/NGS%20analysis" target="blank">Next Generation Sequencing(NGS)</a>
 
