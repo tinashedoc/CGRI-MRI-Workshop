@@ -1,8 +1,8 @@
 <img src="https://github.com/tinashedoc/cvx/blob/main/logo_original_tempb%20Afshg.jpeg" width="400" height="200">   <img src="https://github.com/tinashedoc/cvx/blob/main/SFI.jpg" width="300" height="200">
 
-# Mendelian Randomization Workshop
+# Mendelian Randomization Workshop, Nigeria 20-24 March 2023
 
-Theme: Mendelian randomization for drug discovery in Africa![image](https://user-images.githubusercontent.com/13121809/211202778-e9014dfa-52d9-4e58-a19d-a49e51520c31.png)
+![image](https://user-images.githubusercontent.com/13121809/211202778-e9014dfa-52d9-4e58-a19d-a49e51520c31.png)
 MRW Nigeria 20-24 March 2023
 
 ## Course overview
