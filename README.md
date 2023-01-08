@@ -5,35 +5,36 @@
 Genomics Data Science Training Program by AfSHG and SFI Ireland 14-18 November 2022
 
 ## Course overview
-The African Society of Human Genetics was established in 2003 with the central goal of building capacity of the African scientific community and policymakers to contribute to the field of genetics research and to attract global attention to African genomic research and researchers. Almost two decades later, the AfSHG members have contributed to the expansion of the Genomics Research field in Africa. This workshop will introduce participants to African Genetic Diversity through webinars from a select number of AfSHG members (please note, the webinars will be open to the public). These talks will be solidified by background lectures, some case studies and hands-on tutorial sessions to introduce and highlight some key areas of research and provide some practical examples/exercises for participants to work on.  
+In epidemiology, Mendelian randomization studies are increasingly being used to distinguish causal from observational associations and to choose prospective targets for pharmaceutical intervention. In this field, African researchers have limited experience. The goal of this workshop is to close the knowledge gap among Africans Scientists. This five-day intensive workshop integrates motivation for Mendelian randomization studies, statistical concepts, genetic considerations, and practical examples to design, implement and interpret a Mendelian randomization analysis. The workshop will integrate seminar lectures with hands-on computer sessions to put concepts into practice. Emphasis will be given to leveraging existing publicly available resources (data, tools and packages) as well as indicating the scope for new studies. The lab sessions will provide an opportunity to work hands-on with real data. Participants will learn and practice all the steps required for a successful Mendelian randomization analysis using publicly available data, including identifying suitable data sources, data extraction, data alignment, assumption checking and sensitivity analysis  
 
 ## Instructors
 <img src="https://github.com/tinashedoc/cvx/blob/main/emile2.jpeg" width="100" height="100"> 
-Emily Chimusa <br> 
-Northumbria <br>      
-University <br>       
+Prof Segun Fatumo <br> 
+MRC/UVRI Uganda <br> 
+LSHTM, UK <br>
+      
 
 <img src="https://github.com/tinashedoc/cvx/blob/main/Tinashe%20passportfoto.jpeg" width="100" height="100"> <br>
-Tinashe Chikowore <br> 
+Dr Tinashe Chikowore <br> 
 Witwatersrand <br> 
 University <br>
 
 <img src="https://github.com/tinashedoc/cvx/blob/main/U4dZ6bejk.jpeg" width="100" height="100"> <br>
-Richard Daodu <br> 
-Redeemer <br> 
-University <br> 
+Dr Opeyeyemi Soremekum <br> 
+MRC/UVRI Uganda <br> 
+LSHTM, UK <br>
 
 <img src="https://github.com/tinashedoc/cvx/blob/main/valentina.jpg" width="100" height="100"> <br>
-Valentina Essomba <br> 
-Dschang <br> 
+Dr Olaposi Omotuyi <br> 
+Afe Babalola <br> 
 University <br> 
 
 
-## Speakers for the Webinars
+## Organisers
 
-Segun Fatumo, London School of Hygiene and Tropical Medicine<br>
-Ananyo Choudhury, Sydney Brenner Institute for Molecular Bioscience, University of the Witwatersrand<br>
-Michele Ramsay, Sydney Brenner Institute for Molecular Bioscience, University of the Witwatersrand<br>
+Prof. Oyekanmi Nash CGRI/NABDA, Abuja, Nigeria<br>
+Prof. Nicky Mulder H3ABioNet/UCT, Cape Town, South Africa<br>
+
 
 
 ## Presentations
