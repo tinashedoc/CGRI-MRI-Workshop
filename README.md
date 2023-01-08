@@ -43,11 +43,9 @@ Prof. Nicky Mulder H3ABioNet/UCT, Cape Town, South Africa<br>
 ## Course manual
 <a href="https://github.com/tinashedoc/CGRI-MRI-Workshop/tree/main/manuals/GWAS" target="blank">Genome Wide Association Studies(GWAS)</a>
 
-<a href="https://github.com/tinashedoc/African-Genomics-Week/tree/main/manuals/NGS%20analysis" target="blank">Next Generation Sequencing(NGS)</a>
+<a href="https://github.com/tinashedoc/African-Genomics-Week/tree/main/manuals/NGS%20analysis" target="blank">Mendelian Randomisation</a>
 
-<a href="https://github.com/WCSCourses/HumanGenEpi/tree/main/manuals/Polygenic_risk_scores" target="blank">Polygenic Risk Scores(PRS)</a>
-
-<a href="https://github.com/tinashedoc/African-Genomics-Week/tree/main/manuals/Vaccine%20Design" target="blank"> Vaccine Design </a>
+<a href="https://github.com/tinashedoc/African-Genomics-Week/tree/main/manuals/Vaccine%20Design" target="blank"> Drug Design </a>
 
 
 
