@@ -1,4 +1,4 @@
-<img src="https://github.com/tinashedoc/cvx/blob/main/logo_original_tempb%20Afshg.jpeg" width="400" height="200">   <img src="https://github.com/tinashedoc/cvx/blob/main/SFI.jpg" width="300" height="200">
+<img src="https://github.com/tinashedoc/cvx/blob/main/cgri-logo-standing-300x153-1.png" width="300" height="200">   <img src="https://github.com/tinashedoc/cvx/blob/main/H3ABioNet_Logo.png" width="300" height="200">
 
 # Mendelian Randomization Workshop, Nigeria 20-24 March 2023
 
@@ -9,23 +9,23 @@
 In epidemiology, Mendelian randomization studies are increasingly being used to distinguish causal from observational associations and to choose prospective targets for pharmaceutical intervention. In this field, African researchers have limited experience. The goal of this workshop is to close the knowledge gap among Africans Scientists. This five-day intensive workshop integrates motivation for Mendelian randomization studies, statistical concepts, genetic considerations, and practical examples to design, implement and interpret a Mendelian randomization analysis. The workshop will integrate seminar lectures with hands-on computer sessions to put concepts into practice. Emphasis will be given to leveraging existing publicly available resources (data, tools and packages) as well as indicating the scope for new studies. The lab sessions will provide an opportunity to work hands-on with real data. Participants will learn and practice all the steps required for a successful Mendelian randomization analysis using publicly available data, including identifying suitable data sources, data extraction, data alignment, assumption checking and sensitivity analysis  
 
 ## Instructors
-<img src="https://github.com/tinashedoc/cvx/blob/main/emile2.jpeg" width="100" height="100"> 
+<img src="https://github.com/tinashedoc/cvx/blob/main/Segun.jpeg" width="100" height="100">          
 Prof Segun Fatumo <br> 
 MRC/UVRI Uganda <br> 
 LSHTM, UK <br>
       
 
-<img src="https://github.com/tinashedoc/cvx/blob/main/Tinashe%20passportfoto.jpeg" width="100" height="100"> <br>
+<img src="https://github.com/tinashedoc/cvx/blob/main/Tinashe.jpeg" width="100" height="100"> <br>
 Dr Tinashe Chikowore <br> 
 Witwatersrand <br> 
 University <br>
 
-<img src="https://github.com/tinashedoc/cvx/blob/main/U4dZ6bejk.jpeg" width="100" height="100"> <br>
+<img src="https://github.com/tinashedoc/cvx/blob/main/Opwe.webp" width="100" height="100"> <br>
 Dr Opeyeyemi Soremekum <br> 
 MRC/UVRI Uganda <br> 
 LSHTM, UK <br>
 
-<img src="https://github.com/tinashedoc/cvx/blob/main/valentina.jpg" width="100" height="100"> <br>
+<img src="https://github.com/tinashedoc/cvx/blob/main/Omotuyi-Olaposi-Idowu-445x421.jpeg" width="100" height="100"> <br>
 Dr Olaposi Omotuyi <br> 
 Afe Babalola <br> 
 University <br> 
