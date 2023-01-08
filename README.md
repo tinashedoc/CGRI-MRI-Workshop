@@ -2,6 +2,7 @@
 
 # Mendelian Randomization Workshop
 
+Theme: Mendelian randomization for drug discovery in Africa![image](https://user-images.githubusercontent.com/13121809/211202778-e9014dfa-52d9-4e58-a19d-a49e51520c31.png)
 MRW Nigeria 20-24 March 2023
 
 ## Course overview
