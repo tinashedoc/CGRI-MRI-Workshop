@@ -1,8 +1,8 @@
 <img src="https://github.com/tinashedoc/cvx/blob/main/logo_original_tempb%20Afshg.jpeg" width="400" height="200">   <img src="https://github.com/tinashedoc/cvx/blob/main/SFI.jpg" width="300" height="200">
 
-# African Genomics Week
+# Mendelian Randomization Workshop
 
-Genomics Data Science Training Program by AfSHG and SFI Ireland 14-18 November 2022
+MRW Nigeria 20-24 March 2023
 
 ## Course overview
 In epidemiology, Mendelian randomization studies are increasingly being used to distinguish causal from observational associations and to choose prospective targets for pharmaceutical intervention. In this field, African researchers have limited experience. The goal of this workshop is to close the knowledge gap among Africans Scientists. This five-day intensive workshop integrates motivation for Mendelian randomization studies, statistical concepts, genetic considerations, and practical examples to design, implement and interpret a Mendelian randomization analysis. The workshop will integrate seminar lectures with hands-on computer sessions to put concepts into practice. Emphasis will be given to leveraging existing publicly available resources (data, tools and packages) as well as indicating the scope for new studies. The lab sessions will provide an opportunity to work hands-on with real data. Participants will learn and practice all the steps required for a successful Mendelian randomization analysis using publicly available data, including identifying suitable data sources, data extraction, data alignment, assumption checking and sensitivity analysis  
